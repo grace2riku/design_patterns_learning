@@ -1,0 +1,2 @@
+# design_patterns_learning
+デザインパターンの学習用
